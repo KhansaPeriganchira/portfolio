@@ -1,0 +1,173 @@
+
+#header{
+    margin-left: 180px;
+    margin-top: 2px;
+   
+}
+#icon:hover{
+    color:blue;
+
+}
+#second{
+    width:100%;
+    height:500px;
+margin-right: 5px;
+margin-left: 115px;
+}
+.image1{
+
+width:100%;
+height:486px;
+
+
+}
+#image2{
+
+    width:180px;
+    height:150px;
+    border-radius: 50%;
+    margin-top: 3px;
+    box-shadow: 10px 10px rgb(173, 195, 202);
+margin-right: 20px;
+
+}
+#contactinfo{
+text-decoration: underline;
+
+}
+.side{
+
+   list-style-type: none; 
+   
+}
+.shortcut{
+    text-decoration: none;
+    color:white;
+}
+.col{
+
+    border:2px solid white;
+    background-color:dark;
+    width:80px;
+    height:850px;
+    padding:10px;
+    margin-top:10px;
+    margin-right: 500px;
+    border-radius: 10px;
+    box-shadow: 10px 10px lightblue;
+   
+}
+#abouthead{
+
+   text-decoration: underline;
+   
+   text-shadow: 2px 2px red; 
+
+   
+}
+.col1{
+   border: none;
+    width:280px;
+    height:240px;
+    margin-top:15px;
+    margin-left:100px ;
+    box-shadow: none;
+   
+}
+#image3{
+border-radius: 8px;
+margin-left: 60px;
+
+
+
+}
+#main{
+    margin-left:90px;
+  text-decoration: underline;
+}
+#verticalruler{
+    margin-left: 10px;
+}
+.row{
+    
+    display:flex;
+    align-self: center;
+    justify-content: space-evenly;
+}
+.colnew{
+   
+    background-color:dark;
+    width: 300px;
+    height: 500px;
+    padding:10px;
+  
+  }
+
+#skills{
+    text-decoration: underline;
+    text-shadow: 2px 2px red; 
+}
+.resume
+{
+
+border:2px solid white;
+height:200px;
+width:500px;
+padding:10px;
+margin:10px;
+
+
+}
+.edu
+{
+   
+   
+    padding:10px;
+    margin:10px;
+    display:flex;
+    align-self: center;
+}
+.edu1{
+    
+    width:500px;
+    height:495px;
+    margin:10px;
+    
+}
+
+.edu2{
+    
+    width:500px;
+    height:495px;
+    margin:10px;
+    
+}
+#education{
+
+    text-decoration: underline;
+    text-shadow: 2px 2px red; 
+
+}
+#projects
+{
+
+    text-decoration: underline;
+    text-shadow: 2px 2px red; 
+
+}
+#services
+{
+
+    text-decoration: underline;
+    text-shadow: 2px 2px red; 
+
+}
+#paragraph{
+    text-shadow: none;
+    text-align: left;
+}
+#location{
+    text-shadow: 2px 2px red;
+    text-align: left;
+    text-decoration: underline;
+}
